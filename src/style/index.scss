@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+@import url('../assets/font/front.scss');
+.font1{
+    font-family: 'customFront';
+    font-size: 26px;
+}
+.font20 {
+    font-family: 'customFront20';
+    font-size: 26px;
+}
+.font30 {
+    font-family: 'customFront30';
+    font-size: 26px;
+}
