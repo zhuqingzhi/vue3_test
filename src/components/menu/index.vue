@@ -25,10 +25,7 @@
 
 <script setup lang='ts'>
 import { ref, reactive,  onMounted, computed } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
 import axios from 'axios'
-const router = useRouter()
-const activeTab = ref(0)
 const nowType=ref('20')
 const ssrContent = ref({
     20: '',

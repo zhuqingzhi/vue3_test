@@ -11,9 +11,11 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "aes-js": "^3.1.2",
     "axios": "^1.7.7",
     "element-plus": "^2.8.7",
     "jsencrypt": "^3.3.2",
+    "nprogress": "^0.2.0",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
   },
